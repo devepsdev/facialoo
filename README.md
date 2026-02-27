@@ -76,3 +76,18 @@ facialoo/
 - **CustomTkinter** - Interfaz gráfica moderna con tema oscuro
 - **Pillow** - Manejo de imágenes para la GUI
 - **imutils** - Utilidades para redimensionamiento de frames
+
+---
+
+## 👨‍💻 Autor
+
+**DevEps** - Desarrollador Full Stack
+
+- GitHub: [github.com/devepsdev](https://github.com/devepsdev)
+- Portfolio: [deveps.ddns.net](https://deveps.ddns.net)
+- Email: devepsdev@gmail.com
+- LinkedIn: [www.linkedin.com/in/enrique-perez-sanchez](https://www.linkedin.com/in/enrique-perez-sanchez/)
+
+---
+
+⭐ ¡Dale una estrella si el proyecto te ha resultado útil!
